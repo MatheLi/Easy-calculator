@@ -10,4 +10,4 @@ You can:
 
 4. divide
 
-[Click here for the code](./Easy calculator)
+[Click here for the code](./code-for-the-calculator)
