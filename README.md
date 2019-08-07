@@ -10,4 +10,4 @@ You can:
 
 4. divide
 
-[Click here for the code](./code-for-the-calculator)
+[Click here for the code](./code-for-the-calculator.py)
